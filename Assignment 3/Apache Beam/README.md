@@ -1,4 +1,4 @@
-Assignment 2.3 - Apache Beam features
+Assignment 3.3 - Apache Beam features
 
 1. learned how to set up and install apache beam on local machine
 2. tutorial with the word count program that uses a pipeline to count the words in a txt. (equivalant of 'Hello World' program in Apache Beam)
