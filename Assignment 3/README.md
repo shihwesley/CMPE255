@@ -1,5 +1,7 @@
 Hello
 
+https://shihwesley.github.io/CMPE255/index.html
+
 This is the Git Repo for CMPE255 Assignment 3 includes EDA, Auto EDA and Apache Beam.
 Files : Sankey.js, strains.json, index.html (in the main folder)
 
